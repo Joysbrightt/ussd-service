@@ -1,4 +1,5 @@
 package com.Joysbrightt.ussdservice.model;
 
-public class UssdUser {
+public class UssdSession {
+    
 }
