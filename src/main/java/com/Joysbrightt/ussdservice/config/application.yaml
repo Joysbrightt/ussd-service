@@ -1,0 +1,6 @@
+decoded:
+  cache:
+    port: #redis-port
+    host: #redis-host
+    password: #provided password
+    default-ttl: 180
